@@ -1,0 +1,11 @@
+Package: toydata
+Title: Toy Genomics Datasets
+Version: 1.0
+Description: A collection of toy genomics datasets for workshops, examples, and debugging.
+License: MIT
+URL: https://github.com/bu-bioinfo/toydna
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10)
